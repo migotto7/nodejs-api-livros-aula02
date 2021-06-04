@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo": "Admirável Mundo Novo",
+        "descricao": "Um clássico moderno, o romance distópico de Aldous Huxley é indispensavel",
+        "autor": "Aldous Huxley",
+        "anoPublicacao": 1932
+    },
+    {
+        "id": 2,
+        "titulo": "1984",
+        "descricao": "Uma das obras mais contudentes e influentes do século XX ganha...",
+        "autor": "George Orwell",
+        "anoPublicacao": 1949
+    },
+    {
+        "id": 3,
+        "titulo": "Laranja Mecânica",
+        "descricao": "Publicado pela primeira vez em 1962, e imortalizado 9 anos depois...",
+        "autor": "Anthony Burgess",
+        "anoPublicacao": 1962
+    }
+]
